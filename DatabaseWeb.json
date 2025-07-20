@@ -1,17 +1,14 @@
-[
-  {
-    "username": "evolution",
-    "password": "evolution",
-    "expired": "2025-07-22T23:59:00"
-  },
-  {
-    "username": "admin",
-    "password": "12345",
-    "expired": "2025-07-30T12:00:00"
-  },
-  {
-    "username": "Darkangel",
-    "password": "Dark",
-    "expired": "2025-08-20T21:21"
-  }
-]
+{
+  "users": [
+    {
+      "username": "evolution",
+      "password": "evolution",
+      "expired": "2025-07-31T23:59"
+    },
+    {
+      "username": "admin",
+      "password": "12345",
+      "expired": "2025-08-15T12:00"
+    }
+  ]
+}
