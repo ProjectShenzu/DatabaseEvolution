@@ -1,6 +1,12 @@
-{
-  "users": [
-    { "username": "evolution", "password": "evolution" },
-    { "username": "admin", "password": "admin123" }
-  ]
-}
+[
+  {
+    "username": "evolution",
+    "password": "evolution",
+    "expired": "2025-07-22T23:59:00"
+  },
+  {
+    "username": "admin",
+    "password": "12345",
+    "expired": "2025-07-30T12:00:00"
+  }
+]
