@@ -4,6 +4,11 @@
       "username": "evolution",
       "password": "evolution",
       "expired": "2025-08-01T23:59"
+    },
+    {
+      "username": "shenzu",
+      "password": "shenzu",
+      "expired": "2026-07-20T21:59"
     }
   ]
 }
