@@ -1,14 +1,26 @@
-{
-  "users": [
-    {
-      "username": "evolution",
-      "password": "evolution",
-      "expired": "2025-08-01T23:59"
-    },
-    {
-      "username": "shenzu",
-      "password": "shenzu",
-      "expired": "2026-07-20T21:59"
-    }
-  ]
-}
+[
+  {
+    "username": "shenzu",
+    "password": "shenzu",
+    "expired": "2025-12-31T23:59",
+    "role": "partner"
+  },
+  {
+    "username": "reseller1",
+    "password": "res123",
+    "expired": "2025-10-01T00:00",
+    "role": "reseller"
+  },
+  {
+    "username": "owner1",
+    "password": "own123",
+    "expired": "2025-11-01T00:00",
+    "role": "owner"
+  },
+  {
+    "username": "member1",
+    "password": "mem123",
+    "expired": "2025-09-01T00:00",
+    "role": "member"
+  }
+]
